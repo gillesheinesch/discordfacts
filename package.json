@@ -1,6 +1,6 @@
 {
   "name": "discordfacts",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A library that gives you facts about Discord",
   "main": "index.js",
   "scripts": {
