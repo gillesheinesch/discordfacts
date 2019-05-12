@@ -3,6 +3,26 @@
         {
             "name": "Emoji window",
             "description": "Windows: Type Windows + . to open a emoji picker window"
+        },
+        {
+            "name": "Discord founders",
+            "description": "The founder of Discord are Hammer and Chisel"
+        },
+        {
+            "name": "Release date",
+            "description": "Discord has been released in 2015"
+        },
+        {
+            "name": "Development languages",
+            "description": "Discord is written in Javascript, React and Elixir"
+        },
+        {
+            "name": "Discord Nitro",
+            "description": "Discord offers 2 versions of Nitro: Nitro Classic ($50/year) and Nitro ($99/year)"
+        },
+        {
+            "name": "Light theme",
+            "description": "The light theme is used by 10% of all Discord users"
         }
     ]
 }

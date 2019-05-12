@@ -13,10 +13,14 @@
 ## Usage
 
     var discordFacts = require('discordfacts');
-
     var randomFact = discordFacts.random();
 
-Output is a random fact about Discord
+Output is a random fact about Discord.
+
+    var discordFacts = require('discordfacts');
+    var randomFact = discordFacts.all();
+
+Output are all facts about Discord that discordfacts offers.
 
 ## Tests
 
