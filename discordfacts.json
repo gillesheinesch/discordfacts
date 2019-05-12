@@ -23,6 +23,30 @@
         {
             "name": "Light theme",
             "description": "The light theme is used by 10% of all Discord users"
+        },
+        {
+            "name": "How many people use Discord? (14/3/2019)",
+            "description": "250 million registered Discord users"
+        },
+        {
+            "name": "Number of Discord employees (15/5/2018)",
+            "description": "108"
+        },
+        {
+            "name": "Average number of messages sent daily on Discord (26/3/2019)",
+            "description": "315 million messages"
+        },
+        {
+            "name": "Average number of messages sent monthly on Discord (15/5/2018)",
+            "description": "15 billion messages"
+        },
+        {
+            "name": "Estimated value of Discord (21/12/2018)",
+            "description": "$2.05 billion"
+        },
+        {
+            "name": "Discord Blog",
+            "description": "Discord has a blog here: https://blog.discordapp.com/"
         }
     ]
 }
