@@ -1,6 +1,8 @@
-const facts = require('./discordfacts.json');
+const factsJSON = require('./discordfacts.json');
 
-module.exports = function randomDiscordFact() {
-	const factIndex = Math.floor((Math.random() * facts.length) + 1);
-	return facts[factIndex];
+module.exports = {
+	random: function() {
+		const factIndex = Math.floor((Math.random() * factsJSON.facts.length));
+		return factsJSON.facts[factIndex];
+	}
 };
