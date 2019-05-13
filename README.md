@@ -28,15 +28,15 @@ If you want all facts of Discord, you can use the following code:
 
 We are very happy if you have any new facts about Discord and want to add them to the project!
 
-Open the file [discordfacts.json](https://github.com/Monkeyyy11/discordfacts/blob/master/discordfacts.json), then simply add a new line fact by using the following template:
+Open the file [discordfacts.json](https://github.com/Monkeyyy11/discordfacts/blob/master/discordfacts.json), then simply add a new fact about Discord by using the following template:
 
     {
         name: "NAME OF THE FACT (should be short)",
         description: "THE DESCRIPTION OF THE FACT"
     }
 
-When you've completed this, you can create a pull request and we will accept is ASAP! :)
-Thanks in advance!
+When you've completed this, you can create a pull request and we will accept is ASAP!
+Thanks in advance! :)
 
 ## Tests
 
